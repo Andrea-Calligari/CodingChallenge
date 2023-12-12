@@ -1,0 +1,94 @@
+
+*{
+  position: relative;
+}
+body{
+  background-image:url(background.jpg);
+  background-size: cover;
+  top: 40px;
+  right: 150px;
+}
+.black-box{
+  top:5px;
+  left: 350px;
+  width: 1100px;
+  height: 650px;
+  border-radius: 15px;
+  background-color: rgba(41, 36, 39, 0.71);
+}
+/* HEADER *//* HEADER *//* HEADER *//* HEADER *//* HEADER *//* HEADER */
+.contain{
+  width: 1250px;
+  margin: 0 auto;
+}
+.logo{
+  width: 175px;
+  left: 500px;
+  top: 20px;
+}
+h1{
+  color:rgb(0,255,0);
+  left: 400px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+.Input{
+background-color: rgb(0,255,0);
+width: 900px;
+height: 45px;
+margin: 0 auto;
+}
+div > button{
+left: 255px;
+top: 15px;
+}
+/* NAV *//* NAV *//* NAV *//* NAV *//* NAV *//* NAV *//* NAV */
+span{
+  color: white;
+  font-family:
+}
+#white{
+  color: white;
+}
+.CH{
+  color:white;
+}
+/* Gino22 */
+.Gino22{
+width: 900px;
+margin: 0 auto;
+box-sizing: border-box;
+padding-top: 20px;
+}
+.charge{
+  background-color: rgb(255, 240, 0);
+  width: 450px;
+  height: 25px;
+  border-radius: 15px;
+}
+/* MIke24 */
+.Mike24{
+  width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+.box-charge{
+  background-color: rgb(46, 139, 87);
+  width: 550px;
+  height: 25px;
+  border-radius: 15px;
+}
+/* Fede154 */
+.Fede154{
+  width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+.box-charging{
+  background-color: rgb(230,0,38 );
+  width: 250px;
+  height: 25px;
+  border-radius: 15px;
+}
